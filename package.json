@@ -1,0 +1,17 @@
+{
+  "name": "visual-proofreading-test",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "visual-proofreading-test": "node libs/visual-proofreading-test.mjs",
+    "advanced-visual-proofreading-test": "node libs/advanced-visual-proofreading-test.mjs"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^20.7.1",
+    "sharp": "^0.32.1"
+  }
+}
